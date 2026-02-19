@@ -1,4 +1,3 @@
 mod cyclostationary_detector;
 
-fn main() {
-}
+fn main() {}
